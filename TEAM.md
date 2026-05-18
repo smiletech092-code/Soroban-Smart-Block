@@ -2,7 +2,7 @@
 
 ## Why We're Building This
 
-We've been building on Stellar since [year] and repeatedly hit the same wall: every time we
+We've been building on Stellar since 2026 and repeatedly hit the same wall: every time we
 deployed a Soroban contract, there was no way for users or partners to understand what was
 happening on-chain. StellarExpert shows raw XDR. Horizon shows nothing. We built internal
 tooling to decode our own events — this project makes that tooling public and generalised
@@ -12,29 +12,13 @@ for the entire ecosystem.
 
 ## Team Members
 
-### [Lead Engineer — Rust / Soroban]
+### Sunday Abel
 
 **Role:** Smart contract architecture, Soroban SDK integration, XDR decoding  
-**GitHub:** [github.com/your-handle]  
+**GitHub:** (https://github.com/sundayabel085)  
 **Relevant experience:**
-- [X] years building production Rust systems
-- Completed [Soroban Quest / Stellar Quest] — [link to badge/proof]
-- Previously deployed Soroban contracts: [list any prior contracts or link to repos]
-- Prior blockchain experience: [e.g., Ethereum Solidity, Solana Anchor — if applicable]
-
----
-
-### [Full-Stack Engineer — Node.js / React]
-
-**Role:** Indexer service, REST API, React frontend, PostgreSQL  
-**GitHub:** [github.com/your-handle]  
-**Relevant experience:**
-- [X] years building production Node.js/TypeScript services
-- Experience with Stellar SDK (`@stellar/stellar-sdk`) — [link to prior work]
-- Built and operated event-driven indexers for [describe prior project]
-- Frontend: React, Vite, TanStack Query — [link to prior work]
-
----
+- 1 years building production Rust systems
+- Prior blockchain experience: [Ethereum Solidity, Solana Anchor]
 
 ## Why We're Qualified
 
